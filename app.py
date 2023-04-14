@@ -39,8 +39,8 @@ with st.container():
         st.header("What I want to do")
         st.write("##")
         st.write("""I want to become data scientist. i am not become data scientist yet.
-        -well this year i will pass out 12th then i will take admission in university to 
-        to become data scientist
+        -well this year i will pass out 12th then i will take admission in university to
+        become a data scientist
         """)
         st.write("[my other projects >](https://checkspot4.wordpress.com/)")
     with right_column:
